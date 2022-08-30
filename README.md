@@ -1,3 +1,3 @@
 # unix-to-utc
 
-Anchor program for converting the `Clock::unix_timestamp` from unix time to UTC time.
+Anchor program displaying how to ocnvert the `Clock::unix_timestamp` from unix time to UTC time on-chain.
